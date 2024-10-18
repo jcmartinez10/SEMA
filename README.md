@@ -1,0 +1,2 @@
+# SEMA
+Automated palletizing solution
