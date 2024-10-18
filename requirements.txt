@@ -1,0 +1,7 @@
+depthai==2.27.0.0
+matplotlib==3.1.2
+numpy==1.23.5
+opencv_python==4.9.0.80
+scipy==1.14.1
+ultralytics==8.3.7
+ur-rtde==1.6.0 
